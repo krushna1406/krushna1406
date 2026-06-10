@@ -1,5 +1,21 @@
 # 💫 About Me:
-🔭 I'm currently exploring Backend Development and building scalable web applications using the **MERN Stack**<br><br>🌱 I'm currently learning and improving skills in:<br><br>* Node.js<br>* Express.js<br>* MongoDB<br>* REST APIs<br>* Data Structures & Algorithms (C++)<br>* Software Development Fundamentals<br>* NLP and Data Analytics (Soon)<br><br>👯 I'm looking to collaborate on:<br><br>* MERN Stack Projects<br>* Backend Development Projects<br>* Open Source Contributions<br><br>🤝 I'm looking for help with:<br><br>* System Design<br>* Backend Best Practices<br>* API Security & Authentication<br>* Scalable Application Architecture<br>* Machine Learning and AI Integrations<br><br>⚡ Fun fact:<br>I enjoy finding patterns in problems and human behavior, which is one reason I'm excited to explore AI & Machine Learning in the future.<br><br>---<br><br>### 🎯 Current Goals<br><br>* Master Backend Development<br>* Build Strong DSA Foundations<br>* Develop Real-World MERN Projects<br>* Explore AI/ML and Data Science<br>* Become Industry Ready<br>
+Hi There ! I am Krushna.<br>
+🌱 I'm currently learning and improving skills in:<br>
+* Backend Tech <br>
+* Data Structures and Algorithms<br>
+* AI Integrations and Machine Learning<br><br>
+#### I'm looking to collaborate on:
+* MERN Stack Projects<br>
+* Backend Development Projects<br>
+* Open Source Contributions<br><br>
+#### Fun fact:
+I enjoy finding patterns in problems and human behavior, which is one reason I'm excited to explore AI & Machine Learning in the future.<br><hr>
+### Current Goals 🎯 
+* Master Backend Development<br>
+* Build Strong DSA Foundations<br>
+* Develop Real-World MERN Projects<br>
+* Explore AI/ML and Data Science<br>
+* Become Industry Ready<br>
 
 
 ## 🌐 Socials:
